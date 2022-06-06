@@ -1,0 +1,23 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "webpack测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichaoliu/webpack-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lichaoliu/webpack-test/issues"
+  },
+  "homepage": "https://github.com/lichaoliu/webpack-test#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
